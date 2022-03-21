@@ -9,7 +9,7 @@
             <!-- Breadcrumbs & Searchbar -->
             <t t-set="breadcrumbs_searchbar" t-value="True"/>
             <t t-call="portal.portal_searchbar">
-                <t t-set="title">Your contacts</t>
+                <t t-set="title">Your Contacts</t>
             </t>
 
             <!-- Actions -->
